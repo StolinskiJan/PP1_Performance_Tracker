@@ -1,0 +1,65 @@
+﻿@model IEnumerable<PTr.Models.Task>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Twoje dane</h1>
+
+<p>
+    <a asp-action="Create">Dodaj</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Hours)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Days)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Money)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TaskType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WorkSession)
+            </th>
+           @*  <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hours)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Days)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Money)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.TaskType.Name)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.WorkSession.LogIn) - @Html.DisplayFor(modelItem => item.WorkSession.LogOut)
+            </td>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td> *@
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edytuj</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Szczegóły</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Usuń</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
