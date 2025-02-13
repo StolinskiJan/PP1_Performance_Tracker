@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PTr
+build_property.RootNamespace = PTr
+build_property.ProjectDir = C:\Users\JA JAN\Desktop\wsb\semestr_5\PZ\Projekt\Poprawkowe ODN 2\TRACKER (1)\PTr\PTr\PTr\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\JA JAN\Desktop\wsb\semestr_5\PZ\Projekt\Poprawkowe ODN 2\TRACKER (1)\PTr\PTr\PTr
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Tasks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Tasks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Tasks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Tasks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Tasks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/TaskTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1R5cGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/TaskTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1R5cGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/TaskTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1R5cGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/TaskTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1R5cGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/TaskTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1R5cGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/WorkSessions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1Nlc3Npb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/WorkSessions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1Nlc3Npb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/WorkSessions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1Nlc3Npb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/WorkSessions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1Nlc3Npb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/WorkSessions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1Nlc3Npb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/WorkStats/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1N0YXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JA JAN/Desktop/wsb/semestr_5/PZ/Projekt/Poprawkowe ODN 2/TRACKER (1)/PTr/PTr/PTr/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uabu3xmba7
